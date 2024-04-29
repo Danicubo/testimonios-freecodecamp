@@ -28,7 +28,7 @@ function App() {
          />
          <Testimonio
         nombre='Emma Bostian'
-        pais='Sucia'
+        pais='Suecia'
         imagen='Emma'
         cargo='Ingeniera Software'
         empresa='Spotify'
